@@ -1,2 +1,10 @@
-# Todo application implemented using react, javascript, typescript, html, scss
-[DemoLink](https://tiserett.github.io/todo-app/)
+# Todo application
+Implemented using:
+  - React
+  - Javascript
+  - Typescript
+  - HTML
+  - SCSS
+  
+Client side deployed via [GitHub Pages](https://pages.github.com)\
+[Demo Link](https://tiserett.github.io/todo-app/) to test the project
